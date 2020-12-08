@@ -1,3 +1,6 @@
+/* Followed this tutorial to help setup the backend and connect it to the front end
+   https://www.sitepoint.com/local-authentication-using-passport-node-js/ 			*/
+
 /* EXPRESS SETUP */
 
 const express = require('express');
